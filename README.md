@@ -1,5 +1,6 @@
-# dotfiles-linux
-(Master) Linux dotfiles framework
+# dotfiles-master
+
+Master dotfiles framework
 
 Framework designed as a wrapped for the 'core' components of a dotfiles environment (core across all intended environments and/or distros)
 
