@@ -1,0 +1,33 @@
+# essential pkg list
+# 'my' essentials for daily use
+# command: grep -v '^#' thisfiletxt | sudo pacman -S -
+
+acpi
+bat
+eza
+fastfetch
+fd
+fish
+fzf
+htop
+jq
+less
+npm
+python-pip
+rsync
+starship
+terminus-font
+tldr
+trash-cli
+tree
+ttf-terminus-nerd
+udisks2
+unzip
+yazi
+xclip
+xsel
+zip
+zoxide
+
+# xsel to fix nvim copy/paste issue
+# confirm udisks2 is what I want for managing USB disks

@@ -1,0 +1,33 @@
+# core pkg list
+# installed after first boot
+# command: grep -v '^#' thisfiletxt | sudo pacman -S -
+
+base-devel
+bash-completion
+bluez
+bluez-utils
+cups
+dialog
+efibootmgr
+grub
+hplip
+networkmanager
+dialog
+dosfstools
+mtools
+reflector
+snapper
+xdg-utils
+xdg-user-dirs
+
+
+# REJECTED
+# wpa_supplicant
+# alsa-utils
+# pulseaudio
+# pulseaudio-bluetooth
+# linux-headers
+# inetutils
+
+# REMOVED
+# network-manager-applet

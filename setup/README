@@ -1,0 +1,21 @@
+FIRST!, update system packages:
+
+`sudo pacman -Syu`
+
+---------------------------------------------
+
+sudo pacman -S --needed - < packagelist.txt
+                        ^
+                        pay attention to this
+
+----------------------------------------------
+
+If text file contains comments or other info that needs to be filtered:
+
+`grep -v '^#' packagelist.txt | sudo pacman -S --needed -`
+
+----------------------------------------------
+
+For packages from AUR:
+
+`grep -v '^#' packagelist.txt | yay -S --needed -`
