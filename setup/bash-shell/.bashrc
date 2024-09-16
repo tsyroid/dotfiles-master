@@ -10,7 +10,7 @@ alias grep='grep --color=auto'
 
 # alias l='ls -al'
 # assuming eza installed
-alias l='eza -al'
+alias l='eza -al --group-directories-first'
 alias c='clear'
 
 alias up='sudo pacman -Syu'
