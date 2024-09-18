@@ -1,3 +1,6 @@
 *.tmp
 Source/
 .src/
+.cache/
+.npm/
+.mozilla/
