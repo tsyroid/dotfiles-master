@@ -1,4 +1,8 @@
-FIRST!, update system packages:
+<!-- vim: ft=markdown -->
+
+## README
+
+### Pacman/Package Helper CMDs
 
 `sudo pacman -Syu`
 
@@ -19,3 +23,9 @@ If text file contains comments or other info that needs to be filtered:
 For packages from AUR:
 
 `grep -v '^#' packagelist.txt | yay -S --needed -`
+
+
+### Restic CMDs
+
+<!-- full system on arch -->
+`sudo restic -r /stor/restic-repo --verbose --tag root back --exclude-file=/home/taz/.wdir/restic-exclude.txt /`
