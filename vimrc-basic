@@ -1,0 +1,52 @@
+syntax on
+
+set tabstop=4
+set shiftwidth=4
+set softtabstop=4
+set expandtab
+set autoindent
+
+set relativenumber
+set backspace=indent,eol,start
+
+set noswapfile
+
+set hlsearch
+set ignorecase
+set incsearch
+set showmatch
+
+set wrap
+set textwidth=79
+set formatoptions=qrn1
+
+set list
+set listchars=tab:▸\ ,eol:¬
+
+let mapleader = ","
+
+inoremap jk <ESC>
+
+" Clear search highlight
+nnoremap <leader><space> :noh<CR>
+
+" Spelling
+nnoremap <leader>f 1z= " fix spelling
+nnoremap <leader>s :set spell! " toggle spelling
+
+" Match bracket pairs with tab
+nnoremap <tab> %
+vnoremap <tab> %
+
+" Use sane line movement
+nnoremap j gj
+nnoremap k gk
+
+" Sane movement to command line
+nnoremap ; :
+
+" Intuitive splits movement
+nnoremap <C-h> <C-w>h
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-l> <C-w>l
