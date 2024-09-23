@@ -1,0 +1,60 @@
+tap "1password/tap"
+tap "beeftornado/rmtree"
+tap "helix-editor/helix"
+tap "homebrew/bundle"
+tap "homebrew/cask"
+tap "homebrew/cask-fonts"
+tap "homebrew/cask-versions"
+tap "homebrew/core"
+tap "jesseduffield/lazygit"
+brew "bat"
+brew "ca-certificates"
+brew "exa"
+brew "fd"
+brew "fish"
+brew "fzf"
+brew "gettext"
+brew "mpfr"
+brew "readline"
+brew "gawk"
+brew "git"
+brew "git-delta"
+brew "helix", args: ["HEAD"]
+brew "jq"
+brew "less"
+brew "openssl@1.1"
+brew "lz4"
+brew "mas"
+brew "pandoc"
+brew "popt"
+brew "ripgrep"
+brew "xz"
+brew "rsync"
+brew "rust"
+brew "sqlite"
+brew "vifm"
+brew "zoxide"
+brew "jesseduffield/lazygit/lazygit"
+cask "1password-beta"
+cask "1password-cli"
+cask "discord"
+cask "font-iosevka-nerd-font"
+cask "font-jetbrains-mono-nerd-font"
+cask "gpg-suite-no-mail"
+cask "joplin"
+cask "obsidian"
+cask "only-switch"
+cask "raycast"
+cask "spotify"
+mas "1Password for Safari", id: 1569813296
+mas "Amphetamine", id: 937984704
+mas "Cardhop", id: 1290358394
+mas "com.rawrightaway.showqlprefs", id: 963507809
+mas "CopyLess 2", id: 993841014
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
+mas "Numbers", id: 409203825
+mas "Pages", id: 409201541
+mas "Patterns", id: 429449079
+mas "SyncTime", id: 590386474

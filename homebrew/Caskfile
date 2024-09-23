@@ -1,0 +1,85 @@
+# Cask applications
+# Please copy these lines to your Brewfile and use with `brew-file install`.
+
+# Main tap repository for homebrew/cask
+tap homebrew/cask
+
+# Apps installed by Cask in homebrew/cask
+cask appcleaner # /Applications/AppCleaner.app
+cask clipy # /Applications/Clipy.app
+cask joplin # /Applications/Joplin.app
+cask sparkle # /Applications/Sparkle Test App.app
+cask spotify # /Applications/Spotify.app
+cask suspicious-package # /Applications/Suspicious Package.app
+
+# Cask is found, but no applications are found (could be fonts, system settins, or installed in other directory.)
+cask qlcommonmark
+cask qlmarkdown
+cask qlstephen
+cask quicklook-csv
+cask quicklook-json
+
+# Apps installed directly instead of by Cask in homebrew/cask
+#cask 1password # /Applications/1Password 7.app
+#cask alfred # /Applications/Alfred 4.app
+#cask app-cleaner # /Applications/App Cleaner.app
+#cask authy # /Applications/Authy Desktop.app
+#cask cardhop # /Applications/Cardhop.app
+#cask cheatsheet # /Applications/CheatSheet.app
+#cask commander-one # /Applications/Commander One.app
+#cask devonthink # /Applications/DEVONthink 3.app
+#cask evernote # /Applications/Evernote.app
+#cask expressions # /Applications/Expressions.app
+#cask imazing # /Applications/iMazing.app
+#cask kaleidoscope # /Applications/Kaleidoscope.app
+#cask keybase # /Applications/Keybase.app
+#cask keyboard-maestro # /Applications/Keyboard Maestro.app
+#cask mu-editor # /Applications/mu-editor.app
+#cask numi # /Applications/Numi.app
+#cask pdf-expert # /Applications/PDF Expert.app
+#cask popclip # /Applications/PopClip.app
+#cask sqlpro-for-sqlite # /Applications/SQLPro for SQLite.app
+#cask sublime-merge # /Applications/Sublime Merge.app
+#cask yinxiangbiji # /Applications/Evernote.app
+#cask zoomus # /Applications/zoom.us.app
+
+# Casks in caskroom/fonts
+tap caskroom/fonts
+
+# Cask is found, but no applications are found.
+# (fonts, system settins, or installed in other directory.)
+cask font-fira-code
+cask font-fira-mono
+cask font-jetbrains-mono
+
+# Casks in homebrew/cask-versions
+tap homebrew/cask-versions
+
+# Apps installed by Cask in homebrew/cask-versions
+cask google-chrome-dev # /Applications/Google Chrome.app
+cask iterm2-beta # /Applications/iTerm.app
+cask microsoft-edge-beta # /Applications/Microsoft Edge Beta.app
+cask sublime-text-dev # /Applications/Sublime Text.app
+
+# Apps installed directly instead of by Cask in homebrew/cask-versions
+#cask visual-studio-code-insiders # /Applications/Visual Studio Code - Insiders.app
+#cask sublime-merge-dev # /Applications/Sublime Merge.app
+#cask pdf-expert-beta # /Applications/PDF Expert.app
+#cask keyboard-maestro8 # /Applications/Keyboard Maestro.app
+
+# Apps installed from AppStore
+appstore 937984704 Amphetamine (5.0.2) # /Applications/Amphetamine.app
+appstore 890031187 Marked 2 (2.5.40) # /Applications/Marked 2.app
+appstore 429449079 Patterns (1.2) # /Applications/Patterns.app
+appstore 520993579 pwSafe (4.17) # /Applications/pwSafe.app
+appstore 498370702 RegExRX (1.9.2) # /Applications/RegExRX.app
+
+# Apps installed but no casks are available
+# (System applications or directory installed.)
+# /Applications/Quick Lock.app
+# /Applications/Bose Updater.app
+# /Applications/2Do.app
+# /Applications/Safari.app
+# /Applications/GPG Keychain.app
+# /Applications/Bear.app
+# /Applications/SnippetsLab.app

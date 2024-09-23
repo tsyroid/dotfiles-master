@@ -1,0 +1,48 @@
+# ~/dotfiles/homebrew/Rakefile
+#
+# This Rakefile is built to
+#   (a) update Brewfile
+#   (b) update Brewfile::FILES
+# It does not
+#   (a) install Homebrew, or
+#   (b) check for Homebrew's existence
+# See the ~/.dotfiles/setup/ files
+# for this functionality
+
+desc "Default Task"
+task :default do
+  puts ""
+  puts "Try `rake -T` ;-)"
+end
+
+desc "Build/Update Brewfile (brew bundle dump)"
+task :build_brewfile do 
+  puts ""
+  # backup existing Brewfile first (necessary)
+  rm ("Brewfile")
+  # build/refresh Brewfile
+  sh %{brew bundle dump}
+  puts "(Re)build Brewfile task complete... "
+end
+
+desc "Update all Brewfile::FILES"
+task :update_all_brewfiles => [:update_brews, :update_casks, :update_taps]
+
+desc "Update Brewfile::brews"
+task :update_brews do
+  puts ""
+  sh %{ brew list --versions >| Brewfile::brews }
+end
+
+desc "Update Brewfile::casks"
+task :update_casks do
+  puts ""
+  sh %{ brew list --cask --versions >| Brewfile::casks }
+end
+
+desc "Update Brewfile::taps"
+task :update_taps do
+  puts ""
+  sh %{ brew tap >| Brewfile::taps }
+end
+
