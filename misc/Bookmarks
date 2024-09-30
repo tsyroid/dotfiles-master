@@ -1,5 +1,5 @@
 {
-   "checksum": "b337e9ae47fef76a8343df680408e2f9",
+   "checksum": "c70c784958d2400531968bec39495c9e",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -403,7 +403,7 @@
                "url": "https://newsinteractives.cbc.ca/features/2023/climate-dashboard/"
             }, {
                "date_added": "13316402228000000",
-               "date_last_used": "13370782111168616",
+               "date_last_used": "13371486517470604",
                "guid": "df5bca85-cea3-4067-9055-b83df5a58610",
                "id": "5209",
                "name": "F1",
@@ -420,7 +420,7 @@
          }, {
             "children": [ {
                "date_added": "13258745003000000",
-               "date_last_used": "0",
+               "date_last_used": "13371171772454749",
                "guid": "fce4c008-69af-448c-890a-d3afae44290c",
                "id": "5211",
                "name": "Simplii Financial",
@@ -444,7 +444,7 @@
                "url": "https://www.tangerine.ca/app/#/login/login-id?locale=en_CA"
             }, {
                "date_added": "13286071958000000",
-               "date_last_used": "13370813925961757",
+               "date_last_used": "13371970508987111",
                "guid": "de2400db-4aff-400f-8761-c3190caf821b",
                "id": "5214",
                "name": "Home Trust Visa",
@@ -4411,14 +4411,6 @@
                   "type": "url",
                   "url": "https://junegunn.kr/2015/04/browsing-chrome-history-with-fzf/"
                }, {
-                  "date_added": "13284664847000000",
-                  "date_last_used": "0",
-                  "guid": "a1b1b092-bfb2-420e-93ee-212b484d6d40",
-                  "id": "5736",
-                  "name": "Smiles and Spanks | The NaturallyGin Blog",
-                  "type": "url",
-                  "url": "https://naturallyginblog.com/"
-               }, {
                   "date_added": "13319788851000000",
                   "date_last_used": "0",
                   "guid": "e285b7f1-b4ad-4953-9a9d-2760c833c908",
@@ -4426,10 +4418,32 @@
                   "name": "About - Jay Morton Official",
                   "type": "url",
                   "url": "https://www.jaymortonofficial.com/about/"
+               }, {
+                  "date_added": "13371249085005229",
+                  "date_last_used": "13371924419836985",
+                  "guid": "3b5732bc-43d4-479a-9a3a-0b0d1b0c65bb",
+                  "id": "9466",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "David Heinemeier Hansson (DHH)",
+                  "type": "url",
+                  "url": "https://dhh.dk/"
+               }, {
+                  "date_added": "13370460097909289",
+                  "date_last_used": "0",
+                  "guid": "d9eba3fe-429a-401a-ae2c-af7adcaec835",
+                  "id": "9440",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Takuya Matsuyama (Craftzdog)",
+                  "type": "url",
+                  "url": "https://www.craftz.dog/"
                } ],
                "date_added": "13366607328795051",
                "date_last_used": "0",
-               "date_modified": "0",
+               "date_modified": "13371924525512134",
                "guid": "96c7fb9f-56ec-45ad-9ca6-c25ed9f7731c",
                "id": "5725",
                "name": "Misc",
@@ -7837,7 +7851,7 @@
                      "url": "https://stripyscarf.com/miss-matthews-blog-five"
                   }, {
                      "date_added": "13316115832000000",
-                     "date_last_used": "0",
+                     "date_last_used": "13371915565023136",
                      "guid": "cdbfa3bc-bec4-4750-a734-ad0427b54307",
                      "id": "6927",
                      "name": "Georgia Cane Spanking Disciplinarian",
@@ -7886,7 +7900,7 @@
                      "url": "https://www.etsy.com/ca/listing/275925618/the-regina-very-rare-smoked-dragon-canes?click_key=fcfac6e4394c9dc0ea835a906a5333170ea718d1%3A275925618&click_sum=159d125e&ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=rattan+spanking+cane&ref=sr_gallery-1-41&organic_search_click=1"
                   }, {
                      "date_added": "13293825998000000",
-                     "date_last_used": "0",
+                     "date_last_used": "13371917271340423",
                      "guid": "1e2a48d3-1c4f-4ab4-a55c-b89f65e8b9c8",
                      "id": "6936",
                      "name": "Confessor Leather Strap",
@@ -7934,7 +7948,7 @@
                      "url": "https://www.etsy.com/ca/listing/163445349/classic-flogger-black-leather-tails?click_key=fa011fccc555b7368033c25a14d93262fa66a94e%3A163445349&click_sum=bcbb9994&ref=shop_home_active_4&frs=1&sts=1&variation0=1376514443&variation1=1358047518"
                   }, {
                      "date_added": "13369152195832734",
-                     "date_last_used": "0",
+                     "date_last_used": "13371059450066296",
                      "guid": "4218a6b3-0a03-486d-92e7-11442cc922e7",
                      "id": "9367",
                      "meta_info": {
@@ -7962,7 +7976,7 @@
                }, {
                   "children": [ {
                      "date_added": "13291057078000000",
-                     "date_last_used": "13369496412169747",
+                     "date_last_used": "13371404424799792",
                      "guid": "fc0a7a11-a619-4c90-ac5a-13d1dde096cd",
                      "id": "6943",
                      "name": "The engagement strapping",
@@ -7978,7 +7992,7 @@
                      "url": "https://www.spankingtube.com/video/95159/wedding-strapping"
                   }, {
                      "date_added": "13305575055000000",
-                     "date_last_used": "13369923783810158",
+                     "date_last_used": "13372013614164033",
                      "guid": "696392a2-0f37-4807-bde6-98d6ef78a17f",
                      "id": "6945",
                      "name": "24 With the Cane",
@@ -7994,7 +8008,7 @@
                      "url": "https://onlyfans.com/edensgate"
                   }, {
                      "date_added": "13305577686000000",
-                     "date_last_used": "13369051044911347",
+                     "date_last_used": "13371915877787238",
                      "guid": "cce0ef66-f791-4cb3-8a23-de0abbe65b73",
                      "id": "6947",
                      "name": "Schoolgirl Strapping and Caning",
@@ -8010,7 +8024,7 @@
                      "url": "https://xhamster.com/videos/judicial-caning-2298367"
                   }, {
                      "date_added": "13316250514000000",
-                     "date_last_used": "13369766170522207",
+                     "date_last_used": "13371916256895169",
                      "guid": "25305d0d-d79b-44d4-956b-c714f8da7612",
                      "id": "6949",
                      "name": "Chinese Paddling",
@@ -10174,6 +10188,26 @@
                "name": "Timelapse",
                "type": "folder"
             }, {
+               "children": [ {
+                  "date_added": "13370465192299043",
+                  "date_last_used": "0",
+                  "guid": "4a7e9bde-e336-4873-8bf3-7afc7c531b2a",
+                  "id": "9443",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "ChrisTitusTech - Twitch",
+                  "type": "url",
+                  "url": "https://www.twitch.tv/christitustech"
+               } ],
+               "date_added": "13371923989438071",
+               "date_last_used": "0",
+               "date_modified": "13371924006182978",
+               "guid": "e24f3439-e180-407c-9022-7cfded4bf061",
+               "id": "9489",
+               "name": "Twitch",
+               "type": "folder"
+            }, {
                "date_added": "13320432993000000",
                "date_last_used": "0",
                "guid": "c9744887-21a0-4062-ab03-6da4be7bf63d",
@@ -10184,7 +10218,7 @@
             } ],
             "date_added": "13366607328819203",
             "date_last_used": "0",
-            "date_modified": "0",
+            "date_modified": "13371923994031566",
             "guid": "fe63cef2-e019-4408-a461-7b534dea228f",
             "id": "7158",
             "name": "Video",
@@ -20570,6 +20604,17 @@
                   "type": "url",
                   "url": "https://github.com/cpow"
                }, {
+                  "date_added": "13370460117485762",
+                  "date_last_used": "0",
+                  "guid": "679d4809-04ea-4581-a65e-67a7bc444974",
+                  "id": "9441",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "craftzdog (Takuya Matsuyama)",
+                  "type": "url",
+                  "url": "https://github.com/craftzdog"
+               }, {
                   "date_added": "13360871683000000",
                   "date_last_used": "0",
                   "guid": "d79b934d-0e81-4ea1-9a86-1558042686d4",
@@ -20959,7 +21004,7 @@
                } ],
                "date_added": "13366607328827689",
                "date_last_used": "0",
-               "date_modified": "13366740731697149",
+               "date_modified": "13371924577824274",
                "guid": "f240612d-271a-4a71-864f-22a3ab767c51",
                "id": "7686",
                "name": "GH: People (Profiles)",
@@ -20982,13 +21027,13 @@
                   "type": "url",
                   "url": "https://github.com/agalea91/dotfiles"
                }, {
-                  "date_added": "13300115739000000",
+                  "date_added": "13297604010000000",
                   "date_last_used": "0",
-                  "guid": "5ecf637c-8605-426d-a0ce-3834f8eea19e",
-                  "id": "7744",
-                  "name": "ahmedelgabri/dotfiles: ~ 🍭 ~",
+                  "guid": "77b3cc8c-ebe6-4bfb-9b66-ccd6c71f2c31",
+                  "id": "7770",
+                  "name": "ahmedelgabri/dotfiles",
                   "type": "url",
-                  "url": "https://github.com/ahmedelgabri/dotfiles"
+                  "url": "https://github.com/ahmedelgabri/dotfiles/"
                }, {
                   "date_added": "13296933309000000",
                   "date_last_used": "0",
@@ -20997,6 +21042,14 @@
                   "name": "akinsho/dotfiles: 🏡 dotfiles",
                   "type": "url",
                   "url": "https://github.com/akinsho/dotfiles"
+               }, {
+                  "date_added": "13304039994000000",
+                  "date_last_used": "0",
+                  "guid": "7097a3c1-d3a2-4a39-ab67-d6eee89a49c2",
+                  "id": "7777",
+                  "name": "anishathalye/dotfiles",
+                  "type": "url",
+                  "url": "https://github.com/anishathalye/dotfiles/"
                }, {
                   "date_added": "13286792812000000",
                   "date_last_used": "0",
@@ -21065,13 +21118,16 @@
                   "type": "url",
                   "url": "https://github.com/cpow/cpow-dotfiles/"
                }, {
-                  "date_added": "13286227051000000",
+                  "date_added": "13370571927656808",
                   "date_last_used": "0",
-                  "guid": "8bf7b878-ec8e-4633-ad27-e4ce74c3d033",
-                  "id": "7753",
-                  "name": "craftzdog/dotfiles-public",
+                  "guid": "3d065457-96b4-40fa-9391-22d5344cca5b",
+                  "id": "9447",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "craftzdog/dotfiles-public (My personal dotfiles)",
                   "type": "url",
-                  "url": "https://github.com/craftzdog/dotfiles-public"
+                  "url": "https://github.com/craftzdog/dotfiles-public/"
                }, {
                   "date_added": "13358566248000000",
                   "date_last_used": "0",
@@ -21121,14 +21177,6 @@
                   "type": "url",
                   "url": "https://github.com/dlvhdr/dotfiles"
                }, {
-                  "date_added": "13355771778000000",
-                  "date_last_used": "0",
-                  "guid": "168eda58-3d4f-4d79-8d5d-d632ca29ec36",
-                  "id": "7760",
-                  "name": "dot/nvim/lua/plugins at master · folke/dot",
-                  "type": "url",
-                  "url": "https://github.com/folke/dot/tree/master/nvim/lua/plugins"
-               }, {
                   "date_added": "13297099559000000",
                   "date_last_used": "0",
                   "guid": "27f691d0-c468-4897-ad86-22879bfb7ed8",
@@ -21136,22 +21184,6 @@
                   "name": "dotconfig/nvim at main · axieax/dotconfig",
                   "type": "url",
                   "url": "https://github.com/axieax/dotconfig/tree/main/nvim"
-               }, {
-                  "date_added": "13359301592000000",
-                  "date_last_used": "0",
-                  "guid": "059ea03b-bf89-4cce-a0ad-fbd75d0acd57",
-                  "id": "7762",
-                  "name": "dotfiles/.config/fish/abr.fish at master · SeniorMars/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/SeniorMars/dotfiles/blob/master/.config/fish/abr.fish"
-               }, {
-                  "date_added": "13289278293000000",
-                  "date_last_used": "0",
-                  "guid": "f180884a-6a4a-4646-a0a4-9bb4909dcade",
-                  "id": "7763",
-                  "name": "dotfiles/.config/nvim at master · disrupted/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/disrupted/dotfiles/tree/master/.config/nvim"
                }, {
                   "date_added": "13362748135000000",
                   "date_last_used": "0",
@@ -21161,115 +21193,11 @@
                   "type": "url",
                   "url": "https://github.com/SystemSculpt/dotfiles/blob/main/.zshrc"
                }, {
-                  "date_added": "13297362633000000",
-                  "date_last_used": "0",
-                  "guid": "6a8b0d69-9f16-4305-bf55-777e5cf39d08",
-                  "id": "7765",
-                  "name": "dotfiles/Brewfile at main · akinsho/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/akinsho/dotfiles/blob/main/macos/Brewfile"
-               }, {
-                  "date_added": "13302120574000000",
-                  "date_last_used": "0",
-                  "guid": "c324cebf-b13a-49b7-b8fb-b95af52b0bfd",
-                  "id": "7766",
-                  "name": "dotfiles/Brewfile at master · disrupted/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/disrupted/dotfiles/blob/master/Brewfile"
-               }, {
-                  "date_added": "13300375862000000",
-                  "date_last_used": "0",
-                  "guid": "2045e85a-c57b-4407-9d0e-f2437a3b4dc0",
-                  "id": "7767",
-                  "name": "dotfiles/config at main · ahmedelgabri/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/ahmedelgabri/dotfiles/blob/main/config/git/config"
-               }, {
-                  "date_added": "13300305659000000",
-                  "date_last_used": "0",
-                  "guid": "d7f6c99a-380e-48a6-b233-e7396f1d0b9c",
-                  "id": "7768",
-                  "name": "dotfiles/config at master · mhinz/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/mhinz/dotfiles/blob/master/.config/git/config"
-               }, {
-                  "date_added": "13300267476000000",
-                  "date_last_used": "0",
-                  "guid": "2c7eb1f3-2008-4681-89c5-848ceb175541",
-                  "id": "7769",
-                  "name": "dotfiles/config.lua at master · mhinz/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/mhinz/dotfiles/blob/master/.vim/lua/config.lua"
-               }, {
-                  "date_added": "13297604010000000",
-                  "date_last_used": "0",
-                  "guid": "77b3cc8c-ebe6-4bfb-9b66-ccd6c71f2c31",
-                  "id": "7770",
-                  "name": "dotfiles/config/nvim at main · ahmedelgabri/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/ahmedelgabri/dotfiles/tree/main/config/nvim"
-               }, {
-                  "date_added": "13297604488000000",
-                  "date_last_used": "0",
-                  "guid": "b54faf64-2a3e-4ee0-b586-85df4c83a949",
-                  "id": "7771",
-                  "name": "dotfiles/init.lua at main · ahmedelgabri/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/ahmedelgabri/dotfiles/blob/main/config/nvim/init.lua"
-               }, {
-                  "date_added": "13297879158000000",
-                  "date_last_used": "0",
-                  "guid": "5e74950f-fe18-46f0-bd5c-06a34003a8d9",
-                  "id": "7772",
-                  "name": "dotfiles/init.lua at master · SidOfc/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/SidOfc/dotfiles/blob/master/init.lua"
-               }, {
-                  "date_added": "13296382690000000",
-                  "date_last_used": "0",
-                  "guid": "b14f81e8-87cd-4c05-828f-8994683aac4c",
-                  "id": "7773",
-                  "name": "dotfiles/nvim at master · loishy/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/loishy/dotfiles/tree/master/nvim"
-               }, {
-                  "date_added": "13299702862000000",
-                  "date_last_used": "0",
-                  "guid": "fa3434c9-4ff4-4091-9dc2-6873d6efbb00",
-                  "id": "7774",
-                  "name": "dotfiles/plugins.lua at master · m-demare/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/m-demare/dotfiles/blob/master/vim/nvim/lua/plugins.lua"
-               }, {
-                  "date_added": "13289821355000000",
-                  "date_last_used": "0",
-                  "guid": "74ac6604-905d-4fec-b424-ba999f7b0966",
-                  "id": "7775",
-                  "name": "dotfiles/vifmrc at master · VonHeikemen/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/VonHeikemen/dotfiles/blob/master/.config/vifm/vifmrc"
-               }, {
-                  "date_added": "13288503705000000",
-                  "date_last_used": "0",
-                  "guid": "0c3e0a72-8bdf-474c-88c9-997ee47f75b7",
-                  "id": "7776",
-                  "name": "dotfiles/vim at master · lukas-reineke/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/lukas-reineke/dotfiles/tree/master/vim"
-               }, {
-                  "date_added": "13304039994000000",
-                  "date_last_used": "0",
-                  "guid": "7097a3c1-d3a2-4a39-ab67-d6eee89a49c2",
-                  "id": "7777",
-                  "name": "dotfiles/vimrc at master · anishathalye/dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/anishathalye/dotfiles/blob/master/vimrc"
-               }, {
                   "date_added": "13306682888000000",
                   "date_last_used": "0",
                   "guid": "0a3f1ace-a84d-4bfe-91cc-6b7d702d8329",
                   "id": "7778",
-                  "name": "edluffy/dotfiles: 🍙 My dev environment + custom setup scripts for macOS",
+                  "name": "edluffy/dotfiles",
                   "type": "url",
                   "url": "https://github.com/edluffy/dotfiles"
                }, {
@@ -21288,6 +21216,17 @@
                   "name": "elijahmanor/dotfiles",
                   "type": "url",
                   "url": "https://github.com/elijahmanor/dotfiles"
+               }, {
+                  "date_added": "13370672189123105",
+                  "date_last_used": "0",
+                  "guid": "9b694053-cee3-4885-808f-08b15f0127a6",
+                  "id": "9453",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "end-4/dots-hyprland",
+                  "type": "url",
+                  "url": "https://github.com/end-4/dots-hyprland"
                }, {
                   "date_added": "13293091897000000",
                   "date_last_used": "0",
@@ -21425,6 +21364,41 @@
                   "type": "url",
                   "url": "https://github.com/lewis6991/dotfiles/tree/main"
                }, {
+                  "date_added": "13371840180986237",
+                  "date_last_used": "0",
+                  "guid": "9b722e93-3b9e-4cca-8879-f6974eaa0da5",
+                  "id": "9485",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "linkarzu/dotfiles-latest",
+                  "type": "url",
+                  "url": "https://github.com/linkarzu/dotfiles-latest/tree/main"
+               }, {
+                  "date_added": "13296382690000000",
+                  "date_last_used": "0",
+                  "guid": "b14f81e8-87cd-4c05-828f-8994683aac4c",
+                  "id": "7773",
+                  "name": "loishy/dotfiles",
+                  "type": "url",
+                  "url": "https://github.com/loishy/dotfiles/"
+               }, {
+                  "date_added": "13288503705000000",
+                  "date_last_used": "0",
+                  "guid": "0c3e0a72-8bdf-474c-88c9-997ee47f75b7",
+                  "id": "7776",
+                  "name": "lukas-reineke/dotfiles",
+                  "type": "url",
+                  "url": "https://github.com/lukas-reineke/dotfiles/"
+               }, {
+                  "date_added": "13299702862000000",
+                  "date_last_used": "0",
+                  "guid": "fa3434c9-4ff4-4091-9dc2-6873d6efbb00",
+                  "id": "7774",
+                  "name": "m-demare/dotfiles",
+                  "type": "url",
+                  "url": "https://github.com/m-demare/dotfiles/"
+               }, {
                   "date_added": "13299710806000000",
                   "date_last_used": "0",
                   "guid": "378c5e37-e991-42c8-82d1-16b32d8ecb0c",
@@ -21448,6 +21422,14 @@
                   "name": "mhartington/dotfiles",
                   "type": "url",
                   "url": "https://github.com/mhartington/dotfiles/"
+               }, {
+                  "date_added": "13300305659000000",
+                  "date_last_used": "0",
+                  "guid": "d7f6c99a-380e-48a6-b233-e7396f1d0b9c",
+                  "id": "7768",
+                  "name": "mhinz/dotfiles",
+                  "type": "url",
+                  "url": "https://github.com/mhinz/dotfiles/"
                }, {
                   "date_added": "13300267491000000",
                   "date_last_used": "0",
@@ -21612,6 +21594,22 @@
                   "type": "url",
                   "url": "https://github.com/sdaschner/dotfiles/tree/master"
                }, {
+                  "date_added": "13359301592000000",
+                  "date_last_used": "0",
+                  "guid": "059ea03b-bf89-4cce-a0ad-fbd75d0acd57",
+                  "id": "7762",
+                  "name": "SeniorMars/dotfiles",
+                  "type": "url",
+                  "url": "https://github.com/SeniorMars/dotfiles/"
+               }, {
+                  "date_added": "13297879158000000",
+                  "date_last_used": "0",
+                  "guid": "5e74950f-fe18-46f0-bd5c-06a34003a8d9",
+                  "id": "7772",
+                  "name": "SidOfc/dotfiles",
+                  "type": "url",
+                  "url": "https://github.com/SidOfc/dotfiles/"
+               }, {
                   "date_added": "13303049740000000",
                   "date_last_used": "0",
                   "guid": "8e1aaf26-f5e5-482e-9330-2d96539647a8",
@@ -21692,6 +21690,14 @@
                   "type": "url",
                   "url": "https://github.com/VonHeikemen/dotfiles"
                }, {
+                  "date_added": "13289821355000000",
+                  "date_last_used": "13371925054014748",
+                  "guid": "74ac6604-905d-4fec-b424-ba999f7b0966",
+                  "id": "7775",
+                  "name": "VonHeikemen/dotfiles (vifmrc)",
+                  "type": "url",
+                  "url": "https://github.com/VonHeikemen/dotfiles/blob/master/.config/vifm/vifmrc"
+               }, {
                   "date_added": "13284069846000000",
                   "date_last_used": "0",
                   "guid": "72cad353-19bd-4cf8-b12f-60c1d8258d5f",
@@ -21734,7 +21740,7 @@
                } ],
                "date_added": "13366607328828518",
                "date_last_used": "0",
-               "date_modified": "13370248057065395",
+               "date_modified": "13371924754797947",
                "guid": "1a8ec9f5-9d00-48d9-8e43-66711591c6b4",
                "id": "7741",
                "name": "GH: Dotfiles",
@@ -22861,6 +22867,17 @@
                   "type": "url",
                   "url": "https://github.com/jdhao/nvim-config"
                }, {
+                  "date_added": "13370891010921097",
+                  "date_last_used": "13371925535372020",
+                  "guid": "1bfba1e9-63aa-46e4-b3b7-dadfe1f29399",
+                  "id": "9458",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "joshuamorony/nvim",
+                  "type": "url",
+                  "url": "https://github.com/joshuamorony/nvim"
+               }, {
                   "date_added": "13359910302000000",
                   "date_last_used": "0",
                   "guid": "278de0aa-7a3e-4fd8-ae45-6f4f4aa39c2b",
@@ -23151,7 +23168,7 @@
                } ],
                "date_added": "13366607328831797",
                "date_last_used": "0",
-               "date_modified": "13366740792113070",
+               "date_modified": "13371925573299108",
                "guid": "17fbf006-2b26-4a2f-b9b2-c16cf2a2f2d2",
                "id": "7941",
                "name": "GH: Nvim-Lua Configs (REPOS)",
@@ -23511,6 +23528,17 @@
                   "name": "DanilaMihailov/beacon.nvim: Whenever cursor jumps some distance or moves between windows, it will flash so you can see where it is",
                   "type": "url",
                   "url": "https://github.com/DanilaMihailov/beacon.nvim"
+               }, {
+                  "date_added": "13371059284545751",
+                  "date_last_used": "0",
+                  "guid": "e1ed5db5-cc2e-4749-a8fa-c3eb18d6bd44",
+                  "id": "9462",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "David-Kunz/gen.nvim: Neovim plugin to generate text using LLMs with customizable prompts",
+                  "type": "url",
+                  "url": "https://github.com/David-Kunz/gen.nvim"
                }, {
                   "date_added": "13287570032000000",
                   "date_last_used": "0",
@@ -24151,6 +24179,17 @@
                   "name": "max397574/better-escape.nvim: Escape from insert mode without delay when typing",
                   "type": "url",
                   "url": "https://github.com/max397574/better-escape.nvim"
+               }, {
+                  "date_added": "13366823012709225",
+                  "date_last_used": "0",
+                  "guid": "cec267fd-617e-4483-aca8-229b1d45d116",
+                  "id": "9279",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
+                  "type": "url",
+                  "url": "https://github.com/MeanderingProgrammer/markdown.nvim"
                }, {
                   "date_added": "13361229982000000",
                   "date_last_used": "0",
@@ -25023,21 +25062,10 @@
                   "name": "ziontee113/icon-picker.nvim: This is a Neovim plugin that helps you pick Nerd Font Icons, Symbols & Emojis",
                   "type": "url",
                   "url": "https://github.com/ziontee113/icon-picker.nvim"
-               }, {
-                  "date_added": "13366823012709225",
-                  "date_last_used": "0",
-                  "guid": "cec267fd-617e-4483-aca8-229b1d45d116",
-                  "id": "9279",
-                  "meta_info": {
-                     "power_bookmark_meta": ""
-                  },
-                  "name": "MeanderingProgrammer/markdown.nvim: Plugin to improve viewing Markdown files in Neovim",
-                  "type": "url",
-                  "url": "https://github.com/MeanderingProgrammer/markdown.nvim"
                } ],
                "date_added": "13366607328833047",
                "date_last_used": "0",
-               "date_modified": "13366824432968217",
+               "date_modified": "13371925451617158",
                "guid": "4b0e68b9-b0d1-4baa-8f97-879dcad78b9b",
                "id": "8025",
                "name": "GH: Nvim Plugins",
@@ -25734,6 +25762,17 @@
                   "type": "url",
                   "url": "https://github.com/catppuccin/nvim"
                }, {
+                  "date_added": "13370551724661757",
+                  "date_last_used": "13370761592876793",
+                  "guid": "eec9abef-289d-4af1-a2c7-390b633c604c",
+                  "id": "9446",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "craftzdog/solarized-osaka.nvim",
+                  "type": "url",
+                  "url": "https://github.com/craftzdog/solarized-osaka.nvim"
+               }, {
                   "date_added": "13196455053000000",
                   "date_last_used": "0",
                   "guid": "8f1e9785-f51f-42b6-b730-289ec6654e3d",
@@ -25894,14 +25933,6 @@
                   "type": "url",
                   "url": "https://github.com/sbugzu/gruvbox-zsh"
                }, {
-                  "date_added": "13303762844000000",
-                  "date_last_used": "0",
-                  "guid": "9a343399-a7c5-4afa-b830-47d05ffcb00a",
-                  "id": "8350",
-                  "name": "shaunsingh/oxocarbon.nvim: A dark and light Neovim theme written in Rust",
-                  "type": "url",
-                  "url": "https://github.com/shaunsingh/oxocarbon.nvim"
-               }, {
                   "date_added": "13301786730000000",
                   "date_last_used": "0",
                   "guid": "a6e1bb9b-ef6d-4d84-85ec-72352ff8b776",
@@ -25917,6 +25948,14 @@
                   "name": "shaunsingh/moonlight.nvim: Port of VSCode's Moonlight colorscheme",
                   "type": "url",
                   "url": "https://github.com/shaunsingh/moonlight.nvim"
+               }, {
+                  "date_added": "13303762844000000",
+                  "date_last_used": "0",
+                  "guid": "9a343399-a7c5-4afa-b830-47d05ffcb00a",
+                  "id": "8350",
+                  "name": "shaunsingh/oxocarbon.nvim: A dark and light Neovim theme written in Rust",
+                  "type": "url",
+                  "url": "https://github.com/shaunsingh/oxocarbon.nvim"
                }, {
                   "date_added": "13284241412000000",
                   "date_last_used": "0",
@@ -25960,7 +25999,7 @@
                } ],
                "date_added": "13366607328837928",
                "date_last_used": "0",
-               "date_modified": "0",
+               "date_modified": "13371924791444581",
                "guid": "a770c05f-8359-44f4-88c1-d5dce7539e84",
                "id": "8324",
                "name": "GH: Colorschemes",
@@ -27578,10 +27617,21 @@
                   "name": "Downloads and Validation | CachyOS",
                   "type": "url",
                   "url": "https://wiki.cachyos.org/cachyos_basic/download/"
+               }, {
+                  "date_added": "13371355153441283",
+                  "date_last_used": "13371925269232799",
+                  "guid": "40f3a280-0500-4b2e-8441-e3cd30616362",
+                  "id": "9474",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Archcraft",
+                  "type": "url",
+                  "url": "https://archcraft.io/"
                } ],
                "date_added": "13366607328841872",
                "date_last_used": "0",
-               "date_modified": "13369379474629750",
+               "date_modified": "13371925369204595",
                "guid": "d502529a-97da-48ac-b2ba-1df638ef56b7",
                "id": "8545",
                "name": "Linux Distros",
@@ -28026,6 +28076,26 @@
                "type": "folder"
             }, {
                "children": [ {
+                  "date_added": "13371334849828517",
+                  "date_last_used": "13371415168570669",
+                  "guid": "d207a4a5-31fc-45bc-af4f-27acb548d99d",
+                  "id": "9473",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "How to Delete Local and Remote Git Branches",
+                  "type": "url",
+                  "url": "https://refine.dev/blog/git-delete-remote-branch-and-local-branch/"
+               } ],
+               "date_added": "13371925510385246",
+               "date_last_used": "0",
+               "date_modified": "13371925523706954",
+               "guid": "9988052e-4cf5-459f-bc6c-f75a5129bb5b",
+               "id": "9490",
+               "name": "Git",
+               "type": "folder"
+            }, {
+               "children": [ {
                   "date_added": "13288739342000000",
                   "date_last_used": "0",
                   "guid": "b0e1d224-b7cf-4e08-a947-cf570e19a4d4",
@@ -28097,10 +28167,32 @@
                   "name": "Alt key on Mac | The most important functions",
                   "type": "url",
                   "url": "https://www.ionos.com/digitalguide/websites/web-development/alt-key-on-mac/"
+               }, {
+                  "date_added": "13371328321575693",
+                  "date_last_used": "0",
+                  "guid": "26b0d2fa-2671-4dba-92fd-b279fb3980f0",
+                  "id": "9471",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "The Modern CLI Renaissance | Gabe Venberg",
+                  "type": "url",
+                  "url": "https://gabevenberg.com/posts/cli-renaissance/"
+               }, {
+                  "date_added": "13371328311329803",
+                  "date_last_used": "13371925709047275",
+                  "guid": "07c24078-ea57-4f23-9d65-573ead359630",
+                  "id": "9470",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "dduan/tre: Tree command, improved.",
+                  "type": "url",
+                  "url": "https://github.com/dduan/tre"
                } ],
                "date_added": "13366607328842697",
                "date_last_used": "0",
-               "date_modified": "0",
+               "date_modified": "13371950862165701",
                "guid": "d8ff0ac5-1739-4e79-a586-619d83dbaca2",
                "id": "8596",
                "name": "Shell Stuff",
@@ -28609,10 +28701,40 @@
                   "name": "TheLinuxITGuy/Linux-Mint-Scripts",
                   "type": "url",
                   "url": "https://github.com/TheLinuxITGuy/Linux-Mint-Scripts"
+               }, {
+                  "date_added": "13371238131608477",
+                  "date_last_used": "0",
+                  "guid": "68ef0e9e-b497-4a6b-a510-39c71e43bc87",
+                  "id": "9464",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "VGA Color Palettes",
+                  "type": "url",
+                  "url": "https://www.fountainware.com/EXPL/vga_color_palettes.htm"
+               }, {
+                  "date_added": "13366341448000000",
+                  "date_last_used": "13369392196365659",
+                  "guid": "9f6b232f-f99a-4195-9032-566b5e6b935e",
+                  "id": "5248",
+                  "name": "Ventoy",
+                  "type": "url",
+                  "url": "https://www.ventoy.net/en/index.html"
+               }, {
+                  "date_added": "13371950862165701",
+                  "date_last_used": "0",
+                  "guid": "40dcdb10-5972-47b3-ae4a-28ae962a7e1a",
+                  "id": "9491",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "DBeaver Community | Free Universal Database Tool",
+                  "type": "url",
+                  "url": "https://dbeaver.io/"
                } ],
                "date_added": "13370248154999354",
                "date_last_used": "0",
-               "date_modified": "13370410394801322",
+               "date_modified": "13371994778775699",
                "guid": "39e7027c-be39-4cc9-9b02-75e3bc2bd28e",
                "id": "9435",
                "name": "Tools",
@@ -28620,7 +28742,7 @@
             } ],
             "date_added": "13366607328839156",
             "date_last_used": "0",
-            "date_modified": "13370248154999636",
+            "date_modified": "13371925514944436",
             "guid": "f208e76d-d06e-4ac0-8b4c-94e667cba46b",
             "id": "8396",
             "name": "System Admin",
@@ -32382,10 +32504,21 @@
                "name": "Lenovo ThinkPad Monster",
                "type": "url",
                "url": "https://www.lenovo.com/ca/en/configurator/cto/index.html?bundleId=21KCCTO1WWCA1"
+            }, {
+               "date_added": "13370500725731135",
+               "date_last_used": "13371924529017295",
+               "guid": "3c2ff623-a233-40ee-a9d1-77bc83538938",
+               "id": "9444",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Haurjie | Home",
+               "type": "url",
+               "url": "https://www.haurjie.com/"
             } ],
             "date_added": "13366607328850925",
             "date_last_used": "0",
-            "date_modified": "0",
+            "date_modified": "13371924548452660",
             "guid": "65b57aa7-9db3-428c-a30a-ee84b5a696aa",
             "id": "9093",
             "name": "Hardware",
@@ -32688,14 +32821,6 @@
                "type": "folder"
             }, {
                "children": [ {
-                  "date_added": "13366341448000000",
-                  "date_last_used": "13369392196365659",
-                  "guid": "9f6b232f-f99a-4195-9032-566b5e6b935e",
-                  "id": "5248",
-                  "name": "Ventoy",
-                  "type": "url",
-                  "url": "https://www.ventoy.net/en/index.html"
-               }, {
                   "date_added": "13366653602792888",
                   "date_last_used": "13366741149710389",
                   "guid": "27e711c9-f70f-44b0-ae4b-18e1810cac25",
@@ -34021,10 +34146,21 @@
                   "name": "Jinya Ramen to open new Vancouver location August 1",
                   "type": "url",
                   "url": "https://dailyhive.com/vancouver/jinya-ramen-w-broadway-vancouver"
+               }, {
+                  "date_added": "13371331423374153",
+                  "date_last_used": "0",
+                  "guid": "a299f93f-1689-4d0e-a293-bc613fd56d94",
+                  "id": "9472",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Where to eat ramen in Metro Vancouver?",
+                  "type": "url",
+                  "url": "https://vancouversun.com/life/vancouver-ramen-restaurant-review-roundup"
                } ],
                "date_added": "13366607328854123",
                "date_last_used": "0",
-               "date_modified": "0",
+               "date_modified": "13371924233839882",
                "guid": "0b2c833d-6917-4f0a-a229-721f0028bac6",
                "id": "9229",
                "name": "Ramen",
@@ -34477,10 +34613,131 @@
                   "name": "Canadian Army says new military sleeping bags not suitable for 'typical Canadian winter' | CBC News",
                   "type": "url",
                   "url": "https://www.cbc.ca/news/politics/army-sleeping-bags-arctic-1.7321680"
+               }, {
+                  "date_added": "13370893740998493",
+                  "date_last_used": "0",
+                  "guid": "24d651d0-bab4-444d-9e9a-6a02d0e4bf3d",
+                  "id": "9459",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Undemocratic BC Bills 44, 46, 47 & 18 don’t achieve housing affordability needs in Vancouver (or anywhere) so should be rescinded (Elizabeth Murphy) | CityHallWatch: Tools to engage in Vancouver city decisions",
+                  "type": "url",
+                  "url": "https://cityhallwatch.wordpress.com/2024/09/15/bc-bills-44-46-47-18-no-affordability-should-be-rescinded-murphy/"
+               }, {
+                  "date_added": "13370930577232197",
+                  "date_last_used": "0",
+                  "guid": "6a18047f-a0ab-429f-9622-2d00b9a9fbdb",
+                  "id": "9460",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "B.C. will force addicted and mentally ill people into involuntary care | Vancouver Sun",
+                  "type": "url",
+                  "url": "https://vancouversun.com/news/bc-will-force-addicted-mentally-ill-people-into-involuntary-care"
+               }, {
+                  "date_added": "13371310209880900",
+                  "date_last_used": "0",
+                  "guid": "db296480-0d5f-4581-9a22-c86e5430df94",
+                  "id": "9467",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Safety of streets can't be ignored while helping those with addictions | Calgary Herald",
+                  "type": "url",
+                  "url": "https://calgaryherald.com/opinion/columnists/brookman-safety-streets-cant-be-ignored-helping-addictions?utm_source=newsshowcase&utm_medium=gnews&utm_campaign=CDAQoY7l1Py5-6EhGIjUo6SE4PTuugEqDwgAKgcICjDJ1o4IMIP8dQ&utm_content=rundown&gaa_at=la&gaa_n=AWsEHT4GRpPZjilWYEfgGU0uL1K3_niPY5iIookE_3r9gzTr1e6XGL-JJBqf8guQrpxakoJJjEb1ukZ67m-H&gaa_ts=66ed7b3b&gaa_sig=wZzJXSrSk4qSgpOrS-VNV1JLllIwf7esWvuUiuBQ6V_x6G5X5DcCRcl2cSVwkgaSwChWmVQSiPcneQwRdjs5bg%3D%3D"
+               }, {
+                  "date_added": "13371762104886922",
+                  "date_last_used": "0",
+                  "guid": "1441066b-f667-482a-95b4-7c564b91f7d2",
+                  "id": "9478",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Patient care is 'on the verge of collapse': Abbotsford ER doctors",
+                  "type": "url",
+                  "url": "https://vancouver.citynews.ca/2024/09/25/abbotsford-hospital-patient-care-crisis/"
+               }, {
+                  "date_added": "13371837856391088",
+                  "date_last_used": "0",
+                  "guid": "d6ef98dd-58ea-491d-930d-feb4bd55a5be",
+                  "id": "9480",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "TransLink warns of economic impacts due to potential service cuts",
+                  "type": "url",
+                  "url": "https://vancouver.citynews.ca/2024/09/26/translink-economic-impacts-potential-service-cuts/"
+               }, {
+                  "date_added": "13371837869578404",
+                  "date_last_used": "0",
+                  "guid": "0988360b-e176-4b2b-be79-d4dd7b4cf269",
+                  "id": "9481",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Earthquake shakes Metro Vancouver, Fraser Valley",
+                  "type": "url",
+                  "url": "https://vancouver.citynews.ca/2024/09/26/earthquake-lower-mainland-struck-bc/"
+               }, {
+                  "date_added": "13371838303458303",
+                  "date_last_used": "0",
+                  "guid": "1c97c08e-a40d-4370-a68c-3e435b5b4025",
+                  "id": "9482",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Philippines scientists develop new rice variety to combat diabetes | National Post",
+                  "type": "url",
+                  "url": "https://nationalpost.com/news/world/scientists-in-philippines-develop-new-rice-variety-aimed-at-combatting-diabetes?utm_source=newsshowcase&utm_medium=gnews&utm_campaign=CDAQo4Ot5sHMn6xTGOGB-ZXD8oaDnQEqDwgAKgcICjCZ1o4IMOP7dQ&utm_content=rundown&gaa_at=g&gaa_n=AWsEHT4G6HCob_cVy0WF3hdrtky_thCp2-5ezmoo5P60FUDEqPsTUzGFV6-a-PSiq_glFCvs__9W3-hhef49&gaa_ts=66f589bd&gaa_sig=fQukI0YuD1n69_oasgpKB4KjCcR9OWSKJP57rYrxEi_iQPDmeP9qpzwKZ6GF0hd1yQC1XP2m8IVQ6OmD1Evytw%3D%3D"
+               }, {
+                  "date_added": "13371838955787488",
+                  "date_last_used": "0",
+                  "guid": "3e15fe6f-fba8-41f0-8eaf-1bb7bd649483",
+                  "id": "9483",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Josh Dehaas: Japan convinced me Canadians don’t need to accept urban disorder | National Post",
+                  "type": "url",
+                  "url": "https://nationalpost.com/opinion/josh-dehaas-japan-convinced-me-canadians-dont-need-to-accept-urban-disorder"
+               }, {
+                  "date_added": "13371839068321291",
+                  "date_last_used": "0",
+                  "guid": "b92386c5-6c4e-46e1-8735-78bbd7f4d0bc",
+                  "id": "9484",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Renu Bakshi: Colour me confused. BC’s NDP government woke-washed us | National Post",
+                  "type": "url",
+                  "url": "https://nationalpost.com/opinion/renu-bakshi-colour-me-confused-b-c-s-ndp-government-woke-washed-us"
+               }, {
+                  "date_added": "13371994778775699",
+                  "date_last_used": "0",
+                  "guid": "e733e0fa-266c-411d-a255-803feea19a52",
+                  "id": "9492",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "Historic aerial photos show Vancouver, Canada in the 1930s - Vancouver Is Awesome",
+                  "type": "url",
+                  "url": "https://www.vancouverisawesome.com/history/historic-aerial-photos-vancouver-1930s-9572990"
+               }, {
+                  "date_added": "13371995577571339",
+                  "date_last_used": "0",
+                  "guid": "a93ea1b5-5206-410b-b2d4-cc877237224e",
+                  "id": "9493",
+                  "meta_info": {
+                     "power_bookmark_meta": ""
+                  },
+                  "name": "How Hurricane Helene produced 700+ mm of rain in three days - The Weather Network",
+                  "type": "url",
+                  "url": "https://www.theweathernetwork.com/en/news/weather/severe/how-hurricane-helene-produced-700-mm-of-rain-in-three-days"
                } ],
                "date_added": "13366607328787003",
                "date_last_used": "0",
-               "date_modified": "13370753174948992",
+               "date_modified": "13372004083562295",
                "guid": "66872027-ff92-4f85-8409-919d11a3509b",
                "id": "5229",
                "name": "Mom",
@@ -34504,28 +34761,6 @@
                "type": "folder"
             }, {
                "children": [ {
-                  "date_added": "13370247564182328",
-                  "date_last_used": "0",
-                  "guid": "cd850d32-d702-4559-ae45-5acca4dc200a",
-                  "id": "9432",
-                  "meta_info": {
-                     "power_bookmark_meta": ""
-                  },
-                  "name": "Mojo 🔥: Programming language for all of AI",
-                  "type": "url",
-                  "url": "https://www.modular.com/mojo"
-               }, {
-                  "date_added": "13369653566584241",
-                  "date_last_used": "13370410039951561",
-                  "guid": "8f73eb17-ed1e-42e1-97bf-9a73ef52c796",
-                  "id": "9419",
-                  "meta_info": {
-                     "power_bookmark_meta": ""
-                  },
-                  "name": "dots/.config/hypr/bind.conf at master · coopbri/dots",
-                  "type": "url",
-                  "url": "https://github.com/coopbri/dots/blob/master/.config/hypr/bind.conf"
-               }, {
                   "date_added": "13370136248344413",
                   "date_last_used": "13370410521565331",
                   "guid": "700c6c06-380d-499a-861c-79c11d8a6b88",
@@ -34544,89 +34779,12 @@
                   "meta_info": {
                      "power_bookmark_meta": ""
                   },
-                  "name": "jellydn/zed-101-setup: Your ultimate guide to setting up Zed with Vim mode, tailored settings, and key bindings for a seamless coding experience",
+                  "name": "jellydn/zed-101-setup",
                   "type": "url",
                   "url": "https://github.com/jellydn/zed-101-setup"
                }, {
-                  "date_added": "13370460097909289",
-                  "date_last_used": "0",
-                  "guid": "d9eba3fe-429a-401a-ae2c-af7adcaec835",
-                  "id": "9440",
-                  "meta_info": {
-                     "power_bookmark_meta": ""
-                  },
-                  "name": "Takuya Matsuyama - Homepage",
-                  "type": "url",
-                  "url": "https://www.craftz.dog/"
-               }, {
-                  "date_added": "13370460117485762",
-                  "date_last_used": "0",
-                  "guid": "679d4809-04ea-4581-a65e-67a7bc444974",
-                  "id": "9441",
-                  "meta_info": {
-                     "power_bookmark_meta": ""
-                  },
-                  "name": "craftzdog (Takuya Matsuyama)",
-                  "type": "url",
-                  "url": "https://github.com/craftzdog"
-               }, {
-                  "date_added": "13370462451067492",
-                  "date_last_used": "0",
-                  "guid": "0cadda9d-b823-4234-b7cf-afffcd149369",
-                  "id": "9442",
-                  "meta_info": {
-                     "power_bookmark_meta": ""
-                  },
-                  "name": "Warp: Your terminal, reimagined",
-                  "type": "url",
-                  "url": "https://www.warp.dev/"
-               }, {
-                  "date_added": "13370465192299043",
-                  "date_last_used": "0",
-                  "guid": "4a7e9bde-e336-4873-8bf3-7afc7c531b2a",
-                  "id": "9443",
-                  "meta_info": {
-                     "power_bookmark_meta": ""
-                  },
-                  "name": "ChrisTitusTech - Twitch",
-                  "type": "url",
-                  "url": "https://www.twitch.tv/christitustech"
-               }, {
-                  "date_added": "13370500725731135",
-                  "date_last_used": "0",
-                  "guid": "3c2ff623-a233-40ee-a9d1-77bc83538938",
-                  "id": "9444",
-                  "meta_info": {
-                     "power_bookmark_meta": ""
-                  },
-                  "name": "Haurjie | Home",
-                  "type": "url",
-                  "url": "https://www.haurjie.com/"
-               }, {
-                  "date_added": "13370551724661757",
-                  "date_last_used": "13370761592876793",
-                  "guid": "eec9abef-289d-4af1-a2c7-390b633c604c",
-                  "id": "9446",
-                  "meta_info": {
-                     "power_bookmark_meta": ""
-                  },
-                  "name": "craftzdog/solarized-osaka.nvim: 🏯 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins.",
-                  "type": "url",
-                  "url": "https://github.com/craftzdog/solarized-osaka.nvim"
-               }, {
-                  "date_added": "13370571927656808",
-                  "date_last_used": "0",
-                  "guid": "3d065457-96b4-40fa-9391-22d5344cca5b",
-                  "id": "9447",
-                  "meta_info": {
-                     "power_bookmark_meta": ""
-                  },
-                  "name": "craftzdog/dotfiles-public: My personal dotfiles",
-                  "type": "url",
-                  "url": "https://github.com/craftzdog/dotfiles-public/"
-               }, {
                   "date_added": "13370594718825521",
-                  "date_last_used": "0",
+                  "date_last_used": "13371924294634573",
                   "guid": "3e034205-8608-4e5d-a18d-d5bb285051a4",
                   "id": "9448",
                   "meta_info": {
@@ -34636,86 +34794,64 @@
                   "type": "url",
                   "url": "https://aylur.github.io/ags-docs/"
                }, {
-                  "date_added": "13370623858276697",
+                  "date_added": "13371814005990002",
                   "date_last_used": "0",
-                  "guid": "4fb43de7-3f82-4382-8dbc-2b1e95170d21",
-                  "id": "9449",
+                  "guid": "6f676369-6b23-456c-b3ea-27c4f4fb4335",
+                  "id": "9479",
                   "meta_info": {
                      "power_bookmark_meta": ""
                   },
-                  "name": "feschber/lan-mouse: mouse & keyboard sharing via LAN",
+                  "name": "linkarzu",
                   "type": "url",
-                  "url": "https://github.com/feschber/lan-mouse"
+                  "url": "https://linkarzu.com/"
                }, {
-                  "date_added": "13370623881013262",
+                  "date_added": "13371848402671043",
                   "date_last_used": "0",
-                  "guid": "0f6bc106-dc30-4741-8ceb-b84ea0d245cc",
-                  "id": "9450",
+                  "guid": "7b7e5d14-eafd-4daa-9adf-ecfd45e4cf6f",
+                  "id": "9486",
                   "meta_info": {
                      "power_bookmark_meta": ""
                   },
-                  "name": "System76 - Linux Laptops, Desktops, and Servers",
+                  "name": "My neovim markdown setup in 2024 (linkarzu)",
                   "type": "url",
-                  "url": "https://system76.com/cosmic"
+                  "url": "https://linkarzu.com/posts/neovim/markdown-setup-2024/"
                }, {
-                  "date_added": "13370671188322795",
-                  "date_last_used": "0",
-                  "guid": "9c61e10f-7b3f-4f96-8913-b60746539594",
-                  "id": "9451",
+                  "date_added": "13372004083562295",
+                  "date_last_used": "13372017084400661",
+                  "guid": "7e737798-81f1-4960-9bf9-18426a58eb13",
+                  "id": "9494",
                   "meta_info": {
                      "power_bookmark_meta": ""
                   },
-                  "name": "wlroots / wlroots · GitLab",
+                  "name": "Tyler Kelley / Dotfiles · GitLab",
                   "type": "url",
-                  "url": "https://gitlab.freedesktop.org/wlroots/wlroots"
+                  "url": "https://gitlab.com/Zaney/dotfiles/"
                }, {
-                  "date_added": "13370671350954170",
+                  "date_added": "13372004183823218",
                   "date_last_used": "0",
-                  "guid": "a8e06871-6577-4810-a463-095ec2dae764",
-                  "id": "9452",
+                  "guid": "f692e028-6e47-4ffa-a0bb-228424b521b3",
+                  "id": "9495",
                   "meta_info": {
                      "power_bookmark_meta": ""
                   },
-                  "name": "dwl/dwl: dwm for Wayland - Codeberg.org",
+                  "name": "CalinLeafshade/dots",
                   "type": "url",
-                  "url": "https://codeberg.org/dwl/dwl"
+                  "url": "https://github.com/calinleafshade/dots"
                }, {
-                  "date_added": "13370672189123105",
+                  "date_added": "13372066051914389",
                   "date_last_used": "0",
-                  "guid": "9b694053-cee3-4885-808f-08b15f0127a6",
-                  "id": "9453",
+                  "guid": "a69c44c6-7bc8-473a-899d-f6f929c2c2c4",
+                  "id": "9496",
                   "meta_info": {
                      "power_bookmark_meta": ""
                   },
-                  "name": "end-4/dots-hyprland: i hate minimalism so...",
+                  "name": "horst3180/arc-theme: A flat theme with transparent elements",
                   "type": "url",
-                  "url": "https://github.com/end-4/dots-hyprland"
-               }, {
-                  "date_added": "13370753174948992",
-                  "date_last_used": "0",
-                  "guid": "02a2cd84-2ad5-4910-b3b2-99aae214803a",
-                  "id": "9456",
-                  "meta_info": {
-                     "power_bookmark_meta": ""
-                  },
-                  "name": "Effective Neovim setup for web development towards 2024",
-                  "type": "url",
-                  "url": "https://www.devas.life/effective-neovim-setup-for-web-development-towards-2024/"
-               }, {
-                  "date_added": "13370771305851430",
-                  "date_last_used": "0",
-                  "guid": "56b58350-75ce-4aad-9730-ea9d3950bf4d",
-                  "id": "9457",
-                  "meta_info": {
-                     "power_bookmark_meta": ""
-                  },
-                  "name": "The Best Ford Raptor R Upgrades - Hennessey Performance",
-                  "type": "url",
-                  "url": "https://www.hennesseyperformance.com/vehicles/ford-raptor-r-upgrades/"
+                  "url": "https://github.com/horst3180/arc-theme"
                } ],
                "date_added": "13366607328787557",
                "date_last_used": "0",
-               "date_modified": "13370771305851430",
+               "date_modified": "13372066051914389",
                "guid": "6295b6c7-933b-4d95-a305-5a4e7ace8585",
                "id": "5246",
                "name": "Review",
