@@ -15,6 +15,7 @@ less
 npm
 p7zip
 python-pip
+pwgen
 rsync
 starship
 terminus-font
@@ -24,9 +25,10 @@ tree
 ttf-terminus-nerd
 udisks2
 unzip
-yazi
+wipe
 xclip
 xsel
+yazi
 zip
 zoxide
 
