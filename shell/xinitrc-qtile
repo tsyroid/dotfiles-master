@@ -1,2 +1,2 @@
+picom &
 exec qtile start
-exec picom &
