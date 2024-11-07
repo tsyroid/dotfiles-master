@@ -11,6 +11,7 @@ dialog
 efibootmgr
 grub
 hplip
+man-db
 networkmanager
 dialog
 dosfstools

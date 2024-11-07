@@ -1,0 +1,4 @@
+slstatus &
+picom &
+#exec dwm
+exec dusk
