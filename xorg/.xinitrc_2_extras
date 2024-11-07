@@ -1,0 +1,3 @@
+wal -i /home/taz/Pictures/wallpaper/default.jpg
+picom &
+exec dwm
