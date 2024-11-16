@@ -1,4 +1,6 @@
 #!/bin/sh
+# ~/.dotfiles/xorg/.xinitrc-dwm
+# ~/.xinitr
 
 userresources=$HOME/.Xresources
 usermodmap=$HOME/.Xmodmap
@@ -50,19 +52,15 @@ fi
 
 # Wallpaper
 # nitrogen --restore &
-xwallpaper --zoom ~/.local/share/wallpaper/xero-plasma.jpg &
+xwallpaper --zoom ~/.local/share/wallpaper/defultt.jpg &
 
 # Composite manager
 picom &
 
 # SL Status
-slstatus &
+# slstatus &
 
 # Start DWM (last)
 exec dwm
 
-# twm &
-# xclock -geometry 50x50-1+1 &
-# xterm -geometry 80x50+494+51 &
-# xterm -geometry 80x20+494-0 &
-# exec xterm -geometry 80x66+0+0 -name login
+# -EOF-
